@@ -28,6 +28,6 @@ A data analysis project, includes 10 different visualisations earch with their p
 - This helped me make 10 visualisations prodcued which made the relationship between factors affecting students' performance clear
 
 ### Major Key Findings
-1. Parental Involvement is not a major factor in determining students' academic performance : results formed from chat # 10, a pivot heatmap
+1. Parental Involvement is not a major factor in determining students' academic performance : results formed from chart # 10, a pivot heatmap
 
-2. The most important factor remains students motivation this factor alone got the most positve academic result regardless of other factors like Parenta Involvement, Tutoring Sessions being absent.
+2. The most important factor remains students motivation this factor alone got the most positve academic result regardless of other factors like Parental Involvement, Tutoring Sessions being absent.
