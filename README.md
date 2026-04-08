@@ -31,3 +31,17 @@ A data analysis project, includes 10 different visualisations earch with their p
 1. Parental Involvement is not a major factor in determining students' academic performance : results formed from chart # 10, a pivot heatmap
 
 2. The most important factor remains students motivation this factor alone got the most positve academic result regardless of other factors like Parental Involvement, Tutoring Sessions being absent.
+
+## Files
+
+| File | Description |
+|---|---|
+| final-modification.ipynb | Visualisation + story telling markdowns + Analysis |
+| student data.zip | orignal data from kaggle |
+| requirement.txt | requirements to use data and to analyse it |
+
+
+
+
+
+
