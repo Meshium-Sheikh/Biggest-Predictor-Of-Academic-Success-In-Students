@@ -1,5 +1,5 @@
 # Biggest-Predictor-Of-Academic-Success-In-Students
-A data analysis project, including 10 different visualisations each with descriptive markdown cells..
+10 different visualisation to understand what makes students exceed in academic life and where the outliers lie, a very interesting project which defied my own hypothesis as the students who scored the most weren't those who spent the most time on studying. Below you will find summarised details of the data whereas in the files is where you will find the crust of the project.
 ## Dataset
 [Student Dataset - Kaggle(https://www.kaggle.com/code/robiulhasanjisan/predicting-student-success-eda-ml)
 
